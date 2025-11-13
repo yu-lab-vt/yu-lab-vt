@@ -1,4 +1,6 @@
-## Hi there 👋
+## Yu Lab 2025
+
+<img width="1931" height="1487" alt="mmexport1763024274008(3)(1)" src="https://github.com/user-attachments/assets/100afc23-fd00-43ae-9671-dd7dc773db7e" />
 
 <!--
 **yu-lab-vt/yu-lab-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
