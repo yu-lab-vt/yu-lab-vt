@@ -6,5 +6,7 @@
 <br>
 
 <img width="1931" height="1487" alt="mmexport1763024274008(3)(1)" src="https://github.com/user-attachments/assets/100afc23-fd00-43ae-9671-dd7dc773db7e" />
+Yu lab 2025
 
-### We welcome researchers to join us from home and abroad. Contact professor Yu at yug@tsinghua.edu.cn for connection & cooperation.
+
+### We welcome researchers to join us from home and abroad! Contact professor Yu at yug@tsinghua.edu.cn for connection & cooperation.
