@@ -1,5 +1,3 @@
-## Yu Lab 2025
-
 
 <img width="3628" height="2902" alt="poster_01(1)" src="https://github.com/user-attachments/assets/04c3242f-d3a6-4355-8cd1-a15a280d2ee9" />
 
