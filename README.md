@@ -1,18 +1,12 @@
 ## Yu Lab 2025
 
+
+<img width="3628" height="2902" alt="poster_01(1)" src="https://github.com/user-attachments/assets/04c3242f-d3a6-4355-8cd1-a15a280d2ee9" />
+
+### Our research focuses on neuron images bascially, covering topics such as signal detection, ultrastructure analysis, embryo lineage reconstruction and so forth.
+### See corresponding repositories for more details.
+<br>
+
 <img width="1931" height="1487" alt="mmexport1763024274008(3)(1)" src="https://github.com/user-attachments/assets/100afc23-fd00-43ae-9671-dd7dc773db7e" />
 
-<!--
-**yu-lab-vt/yu-lab-vt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### We welcome researchers to join us from home and abroad. Contact professor Yu at yug@tsinghua.edu.cn for connection & cooperation.
